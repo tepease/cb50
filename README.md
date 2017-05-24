@@ -1,4 +1,4 @@
-##*WELCOME TO CB50!*
+## *WELCOME TO CB50!*
 ============
 
 
@@ -7,19 +7,19 @@ Facebook group for discussion is here: https://www.facebook.com/groups/154887693
  
 Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
 
-###Class Expectations:
+### Class Expectations:
 If you meet the below expectations, in the next 18 months you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you can keep on top of it and you can succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to Tristan or Laurel if you have a scheduling conflict.
 
-..*Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
+..* Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
 
-..*Lectures will be watched outside of class time, prior to the date listed.
+..* Lectures will be watched outside of class time, prior to the date listed.
 
-..*You may need up to 5 out of class hours per week for completing problem sets and lectures.
+..* You may need up to 5 out of class hours per week for completing problem sets and lectures.
 
-..*You will come to class with a laptop and headphones.
+..* You will come to class with a laptop and headphones.
 
 
-###Class Structure:
+### Class Structure:
 
 Thursday 12-1
 
@@ -32,7 +32,7 @@ Sunday 3:30-5
 Lab : work through problem set, watch lecture shorts and get help - may go later as needed
 
 
-###Class Calendar:
+### Class Calendar:
 
 W 5/24 - Introduction, course registration, expectations
 
