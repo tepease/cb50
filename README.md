@@ -1,6 +1,16 @@
 ## *WELCOME TO CB50!*
 
 
+### Contents
+* [Summary](#summary)
+* [Expectations](#expectations)
+* [Structure](#structure)
+* [Calendar & Content](#calendar)
+** Week... [0](#0), [1](#1), [2](#2), [3](#3), [4](#4), [5](#5), ... [18](#18)
+
+
+### <a name="summary"></a>Summary
+
 This is the beginning of a tailored curriculum at CB to build the technical skills you need to apply for Programming and Development job positions.
 
 No prior experience is necessary.
@@ -10,7 +20,7 @@ Except where otherwise specified, [course content is here](https://courses.edx.o
  
 Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
 
-### Class Expectations:
+### <a href="expectations"></a>Class Expectations
 If you meet the below expectations, in the next 18 months you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) or [Laurel](mailto:lljones@castlebranch.com) if you have a scheduling conflict.
 
 * Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
@@ -22,7 +32,7 @@ If you meet the below expectations, in the next 18 months you will go from zero 
 * You will come to class with a laptop and headphones.
 
 
-### Class Structure:
+### <a name="structure"></a>Class Structure
 
 Thursday 12-1
 
@@ -35,13 +45,13 @@ Sunday 3:30-5
 * Lab : work through problem set, watch lecture shorts and get help - may go later as needed
 
 
-### Class Calendar:
+### <a name="calendar"></a>Class Calendar
 
 W 5/24 - Introduction, course registration, expectations
 
 S 5/28 – NO CLASS- Memorial Day Weekend
 
-#### Week 0
+#### <a name="0"></a>Week 0
 
 [Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
@@ -49,7 +59,7 @@ R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
 S 6/4 - Problem Set 0 Lab
 
-#### Week 1
+#### <a name="1"></a>Week 1
 
 [Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
 
@@ -57,7 +67,7 @@ R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
 
 S 6/11 - Problem Set 1 Lab
 
-#### Week 2
+#### <a name="2"></a>Week 2
 
 [Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
 
@@ -65,7 +75,7 @@ R 6/15 - Demo Completed Problem Set 1, P Set 2 cryptography q & a, binary game
 
 S 6/18 - Problem Set 2 Lab
 
-#### Week 3
+#### <a name="3"></a>Week 3
 
 [Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
@@ -73,13 +83,13 @@ R 6/22 - P Set 2 Demo, P Set 3 Search algorithms q & a
 
 S 6/25 - P Set 3 Find Lab
 
-#### Week 4
+#### <a name="4"></a>Week 4
 
 R 6/29 - P Set 3 Find Demo, 15 q & a
 
 S 7/2 - P Set 3 Game of 15 Lab
 
-#### Week 5
+#### <a name="5"></a>Week 5
 
 [Lecture 4](http://video.cs50.net/2016/fall/lectures/4)
 
@@ -153,7 +163,7 @@ R 9/21
 
 S 9/24
 
-#### Week 18 
+#### <a name="18"></a>Week 18 
 
 R 9/28
 
