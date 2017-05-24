@@ -93,55 +93,85 @@ S 7/2 - P Set 3 Game of 15 Lab
 
 [Lecture 4](http://video.cs50.net/2016/fall/lectures/4)
 
-R 7/8 - P Set 3 Game of 15 Demo, P Set 4 Image manipulation and Stegonography discussion
+[Problem Set 4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
 
-S 7/11 - P Set 4 stego & resize Lab
+Set 4, part 1, [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
+
+Set 4, part 2, Resize: [less comfy](http://docs.cs50.net/problems/resize/less/resize.html), [more comfy](http://docs.cs50.net/problems/resize/more/resize.html)
+
+R 7/8 - P Set 3 Game of 15 Demo, P Set 4 File i/o, Image manipulation and Stegonography discussion
+
+S 7/11 - P Set 4 Whodunit & Resize Lab
 
 #### Week 6
 
-R 7/15
+NO LECTURE
 
-S 7/18
+Set 4, part 3, [Recover](http://docs.cs50.net/problems/recover/recover.html)
+
+R 7/15 - P Set 4 Whodunit & Resize demo, P set 4 Recover discussion
+
+S 7/18 - P Set 4 Recover Lab
 
 #### Week 7
 
-R 7/20
+[Lecture 5](http://video.cs50.net/2016/fall/lectures/5)
 
-S 7/23
+[Problem Set 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
+
+R 7/20 - P Set 4 Recover Demo, Data Structures and Complexity discussion
+
+S 7/23 - P Set 5 Speller Lab
  
 #### Week 8
 
-R 7/27
+[Lecture 6](http://video.cs50.net/2016/fall/lectures/6)
 
-S 7/30
+[Problem Set 6](http://cdn.cs50.net/2016/x/psets/6/pset6/pset6.html)
+
+R 7/27 - P Set 5 Speller Demo, P Set 6 Web Server discussion
+
+S 7/30 - P Set 6 Web Server Lab
  
 #### Week 9
 
-R 8/3
+[Lecture 7](http://video.cs50.net/2016/fall/lectures/9)
+
+[Problem Set 7](http://cdn.cs50.net/2016/x/psets/7/pset7/pset7.html)
+
+R 8/3 - Stock Trading Web App, Databases & SQL
 
 S 8/6
  
 #### Week 10
 
-R 8/10
+continued
+
+R 8/10 
 
 S 8/13
  
 #### Week 11
 
-R 8/17
+[Lecture 8](http://video.cs50.net/2016/fall/lectures/10)
+
+[Problem Set 8](http://cdn.cs50.net/2016/x/psets/8/pset8/pset8.html)
+
+R 8/17 - Mashup Google Maps Integration
 
 S 8/20 - Tristan out, substitute or no class
  
 #### Week 12
 
-R 8/24
+R 8/24 - JavaScript, DOM & AJAX
 
 S 8/27
  
 #### Week 13
 
-R 8/31
+[Problem Set 9]() - public data project
+
+R 8/31 - Machine Learning, Neural Nets, p/np, Data Visualization, Kaggle
 
 S 9/3
   
@@ -153,7 +183,9 @@ S 9/10
 
 #### Week 15
 
-R 9/14
+Final Project 
+
+R 9/14 - Modeling in BPMN, ProcessMaker, brainstorm, form teams
 
 S 9/17
 
