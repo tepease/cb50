@@ -2,7 +2,7 @@
 
 
 
-Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
+Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), 
 [Facebook group for discussion is here](https://www.facebook.com/groups/1548876931792281/)
  
 Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
