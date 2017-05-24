@@ -48,7 +48,7 @@ S 6/4 - Problem Set 0 Lab
 
 #### Week 1
 
-Lecture 1: https://video.cs50.net/2016/fall/lectures/1
+[Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
 
 R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
 
@@ -56,13 +56,15 @@ S 6/11 - Problem Set 1 Lab
 
 #### Week 2
 
-Lecture 2: https://video.cs50.net/2016/fall/lectures/2
+[Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
 
 R 6/15 - Demo Completed Problem Set 1, P Set 2 cryptography q & a, binary game
 
 S 6/18 - Problem Set 2 Lab
 
 #### Week 3
+
+[Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
 R 6/22 - P Set 2 Demo, P Set 3 Search algorithms q & a
 
@@ -75,6 +77,8 @@ R 6/29 - P Set 3 Find Demo, 15 q & a
 S 7/2 - P Set 3 Game of 15 Lab
 
 #### Week 5
+
+[Lecture 4](http://video.cs50.net/2016/fall/lectures/4)
 
 R 7/8 - P Set 3 Game of 15 Demo, P Set 4 Image manipulation and Stegonography discussion
 
