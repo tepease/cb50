@@ -1,4 +1,4 @@
-## *WELCOME TO CB50!*
+## *WELCOME TO CB-CS!*
 
 
 ### Contents
