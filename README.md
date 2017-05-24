@@ -40,7 +40,7 @@ S 5/28 – NO CLASS- Memorial Day Weekend
 
 #### Week 0
 
-Lecture 0: https://video.cs50.net/2016/fall/lectures/0
+[Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
