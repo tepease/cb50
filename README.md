@@ -185,13 +185,13 @@ S 9/10
 
 Final Project 
 
-R 9/14 - Modeling in BPMN, ProcessMaker, brainstorm, form teams
+R 9/14 - Diagramming in BPMN, Use Cases, Acceptance Criteria, brainstorm, form teams
 
 S 9/17
 
 #### Week 16
 
-R 9/21
+R 9/21 - Laravel Framework, Composer & dependencies, Local environments, Artisan 
 
 S 9/24
 
@@ -199,4 +199,8 @@ S 9/24
 
 R 9/28
 
-S 9/31 - Final Project Presentations!
+S 9/31 
+
+####  <a name="19"></a>Week 19
+
+Demo final project models & work complete
