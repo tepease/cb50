@@ -6,7 +6,7 @@
 * [Expectations](#expectations)
 * [Structure](#structure)
 * [Calendar & Content](#calendar)
-** Week... [0](#0), [1](#1), [2](#2), [3](#3), [4](#4), [5](#5), ... [18](#18)
+	* Week... [0](#0), [1](#1), [2](#2), [3](#3), [4](#4), [5](#5), ... [18](#18)
 
 
 ### <a name="summary"></a>Summary
