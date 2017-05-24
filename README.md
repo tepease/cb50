@@ -23,13 +23,13 @@ If you meet the below expectations, in the next 18 months you will go from zero 
 
 Thursday 12-1
 
--- 40m : Homework review, play with each other’s projects, q & a
+* 40m : Homework review, play with each other’s projects, q & a
 
--- 20m : Setup for current week problem set
+* 20m : Setup for current week problem set
 
 Sunday 3:30-5
 
--- Lab : work through problem set, watch lecture shorts and get help - may go later as needed
+* Lab : work through problem set, watch lecture shorts and get help - may go later as needed
 
 
 ### Class Calendar:
