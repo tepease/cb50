@@ -56,16 +56,17 @@ S 5/28 – NO CLASS- Memorial Day Weekend
 [Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
+HW - Clone this repository and add your motivation [Tutorial](https://guides.github.com/activities/hello-world/)
 
 S 6/4 - Problem Set 0 Lab
 
 #### <a name="1"></a>Week 1
 
 [Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
-
+[Problem Set 1](http://docs.cs50.net/2017/x/psets/1/pset1.html)
 R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
-
-S 6/11 - Problem Set 1 Lab
+HW - P Set 1 [Hello](http://docs.cs50.net/problems/hello/hello.html), [Water](http://docs.cs50.net/problems/water/water.html)
+S 6/11 - Problem Set 1 Lab: Mario [Less Comfy](http://docs.cs50.net/problems/mario/less/mario.html), [More Comfy](http://docs.cs50.net/problems/mario/more/mario.html), and either [Greedy](http://docs.cs50.net/problems/greedy/greedy.html) or [Credit](http://docs.cs50.net/problems/credit/credit.html)
 
 #### <a name="2"></a>Week 2
 
