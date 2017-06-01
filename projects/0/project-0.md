@@ -11,7 +11,7 @@ Let's start by sharing what we want to get out of this course.
 ##### Resources 
 
 You may refer to Github's training material, like [this](https://guides.github.com/activities/hello-world/), for learning all about git. 
-I'm going to provide step by step instructions for all git commands for now though, which is all you'll need to complete this project.
+I'm going to provide step by step instructions for the git commands you need for this project though, so you don't need to worry about that for now if you don't want to.
 
 ##### Setup
 
