@@ -55,6 +55,10 @@ S 5/28 – NO CLASS- Memorial Day Weekend
 
 [Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
+In order to complete the CS50 edx course along the way, I'll provide links to their Problem Sets below to keep us oriented.
+Note that I'm in the process of building our own curriculum as well, which you can find in the projects folder. 
+I'll let you know when you might need to reference it for our own assignments.
+
 [Problem Set 0](http://docs.cs50.net/2017/x/psets/0/pset0.html)
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
