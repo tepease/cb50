@@ -56,7 +56,9 @@ You're now on your very own branch.
 
 * Type **git diff** to see the changes you've made
 
-* Type **git commit -am 'Add *name* motivation'** - the '-am' part is known as a flag. Type **man git commit** to learn more from the manual for this command!
+* Type **git commit -am 'Add *name* motivation'** - the '-am' part is known as a flag. 
+
+* Type **man git commit** to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation.
 
 * Type **git push --set-upstream origin *name*** and again you can just type the first couple letters of your name before hitting tab, and enter.
  
