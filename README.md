@@ -55,6 +55,8 @@ S 5/28 – NO CLASS- Memorial Day Weekend
 
 [Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
+[Problem Set 0](http://docs.cs50.net/2017/x/psets/0/pset0.html)
+
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
 HW - Clone this repository and add your motivation [Tutorial](https://guides.github.com/activities/hello-world/)
