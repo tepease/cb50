@@ -40,7 +40,9 @@ In your command prompt, navigate to your home folder, or directory, by typing ``
 
 * In your command prompt again, type **git clone *link***, but replace *link* with the link you copied above. hit enter.
 
-Congratulations! You now have your own copy of our repo on your computer! 
+Congratulations! You now have your own copy of our repo on your computer! Now go into it
+
+* Type ```cd cb50``` and enter
 
 * In your command prompt, type **git branch *name-motivation*** where *name* is your first name, and enter.
 
