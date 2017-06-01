@@ -1,6 +1,6 @@
-### Project 1
+### Project 0
 
-#### Part 1: Git
+#### Part 0: Git
 
 Git is an amazingly powerful tool for collaborative creation, known as a Version Control System. 
 Like Google Docs, Git allows you to make things together while keeping track of who contributed what - but also WHEN they did it. 
@@ -67,7 +67,7 @@ I'll merge it for you since I own the repo. You're done with part 1!
 
 
 
-#### Part 2: Scratch
+#### Part 1: Scratch
 
 ##### Setup
 
