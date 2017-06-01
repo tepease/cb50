@@ -59,23 +59,23 @@ Try incorporating 1 or more element of markdown styling in the next step.
 
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 
-* Back in the command line, type **git status** to see some information about what you've done. Some will make sense, some may seem a bit arcane for now.. feel free to ask or look up on your own anything you don't understand!
+* Back in the command line, type ```git status``` to see some information about what you've done. Some will make sense, some may seem a bit arcane for now.. feel free to ask or look up on your own anything you don't understand!
 
-* Type **git diff** to see the changes you've made
+* Type ```git diff``` to see the changes you've made
 
-* Type **git commit -am 'Add *name* motivation'** - the '-am' part is known as a flag. 
+* Type ```git commit -am 'Add *name* motivation'``` - the '-am' part is known as a flag. 
 
-* Type **man git commit** to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation.
+* Type ```man git commit``` to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation.
 
 **Note** before you can do the next step you'll need to contact me in Slack and let me know you're ready to collaborate in GitHub. Then I can add you as a *collaborator*, and you'll be able to push to this repository!
 
-* Type **git push --set-upstream origin *name*** and again you can just type the first couple letters of your name before hitting tab, and enter.
+* Type ```git push --set-upstream origin *name*``` and again you can just type the first couple letters of your name before hitting tab, and enter.
  
  You are now a git command line guru. 
  
 * Back in the browser git repo, you should now see your branch! You may need to refresh.. Hit the *compare and pull request* button
 
-* You should see a comparison very much like the **git diff** you ran above. If you're satisfied, hit the *pull request* button! 
+* You should see a comparison very much like the ```git diff``` you ran above. If you're satisfied, hit the *pull request* button! 
 
 I'll merge it for you since I own the repo. You're done with part 0!
 
