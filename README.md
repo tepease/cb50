@@ -146,6 +146,8 @@ S 7/23 - P Set 5 Speller Lab
 
 R 7/27 - P Set 5 Speller Demo, P Set 6 Web Server discussion
 
+HW - find and present on an [RFC](https://www.ietf.org/rfc.html)
+
 S 7/30 - P Set 6 Web Server Lab
  
 #### Week 9
@@ -162,9 +164,11 @@ S 8/6
 
 continued
 
-R 8/10 
+R 8/10 - PHP-FIG & PSR standards
 
-S 8/13
+HW - read up on assigned PSR topic
+
+S 8/13 - Discuss PSR, wrap up Stock Trading Apps
  
 #### Week 11
 
@@ -172,7 +176,7 @@ S 8/13
 
 [Problem Set 8](http://cdn.cs50.net/2016/x/psets/8/pset8/pset8.html)
 
-R 8/17 - Mashup Google Maps Integration
+R 8/17 - Demo Stock Trading Apps, Intro Mashup Google Maps Integration
 
 S 8/20 - Tristan out, substitute or no class
  
