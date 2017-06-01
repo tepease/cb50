@@ -59,7 +59,8 @@ S 5/28 – NO CLASS- Memorial Day Weekend
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
-HW - Clone this repository and add your motivation [Tutorial](https://guides.github.com/activities/hello-world/)
+HW - Clone this repository and add your motivation. 
+Details in the projects/0/ folder
 
 S 6/4 - Problem Set 0 Lab
 
