@@ -30,7 +30,7 @@ Windows: open applications, select *git bash for windows*
 
 ##### Requirements
 
-In your command prompt, navigate to your home folder, or directory, by typing **cd ~** and hitting enter
+In your command prompt, navigate to your home folder, or directory, by typing ```cd ~``` and hitting enter
 
 * Create a new directory called 'code' by typing **mkdir code** and enter
 
@@ -49,6 +49,9 @@ Congratulations! You now have your own copy of our repo on your computer!
 You're now on your very own branch.
 
 * From a file explorer, open /Projects/0/motivation.txt in any text editor.
+
+* Check out this primer on [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+Try incorporating 1 or more item of markdown styling in the next step.
 
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 

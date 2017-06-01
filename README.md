@@ -1,3 +1,5 @@
+![Picture](http://imgur.com/lWEMnwh)
+
 ## *WELCOME TO CB-CS!*
 
 
