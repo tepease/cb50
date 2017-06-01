@@ -32,23 +32,23 @@ Windows: open applications, select *git bash for windows*
 
 In your command prompt, navigate to your home folder, or directory, by typing ```cd ~``` and hitting enter
 
-* Create a new directory called 'code' by typing **mkdir code** and enter
+* Create a new directory called 'code' by typing ```mkdir code``` and enter
 
 * Move into your new code directory by typing ```cd code``` and enter
 
 * Back in your web browser, from the main page of this git repository, click the top right button **clone or download**, and copy the link exposed
 
-* In your command prompt again, type **git clone *link***, but replace *link* with the link you copied above. hit enter.
+* In your command prompt again, type ```git clone *link*```, but replace *link* with the link you copied above. hit enter.
 
 Congratulations! You now have your own copy of our repo on your computer! Now go into it
 
 * Type ```cd cb50``` and enter
 
-* In your command prompt, type **git branch *name-motivation*** where *name* is your first name, and enter.
+* In your command prompt, type ```git branch *name-motivation*``` where *name* is your first name, and enter.
 
-* Type **git branch** (enter) to see all the *branches* in this *repository*. You're on the *master* branch, but you want to be on your own branch...
+* Type ```git branch``` (enter) to see all the *branches* in this *repository*. You're on the *master* branch, but you want to be on your own branch...
 
-* Type **git checkout *name*** wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. 
+* Type ```git checkout *name*``` wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. Depending on your unique console, you may not be able to tab complete. If it doesn't work, no worries, but you'll need to type the whole branch name: ```*name*-motivation``` in the above command.
 
 You're now on your very own branch.
 
@@ -66,6 +66,8 @@ Try incorporating 1 or more element of markdown styling in the next step.
 * Type **git commit -am 'Add *name* motivation'** - the '-am' part is known as a flag. 
 
 * Type **man git commit** to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation.
+
+**Note** before you can do the next step you'll need to contact me in Slack and let me know you're ready to collaborate in GitHub. Then I can add you as a *collaborator*, and you'll be able to push to this repository!
 
 * Type **git push --set-upstream origin *name*** and again you can just type the first couple letters of your name before hitting tab, and enter.
  
