@@ -34,6 +34,8 @@ In your command prompt, navigate to your home folder, or directory, by typing ``
 
 * Create a new directory called 'code' by typing **mkdir code** and enter
 
+* Move into your new code directory by typing ```cd code``` and enter
+
 * Back in your web browser, from the main page of this git repository, click the top right button **clone or download**, and copy the link exposed
 
 * In your command prompt again, type **git clone *link***, but replace *link* with the link you copied above. hit enter.
