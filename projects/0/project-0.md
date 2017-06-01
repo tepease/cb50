@@ -51,7 +51,7 @@ You're now on your very own branch.
 * From a file explorer, open /Projects/0/motivation.txt in any text editor.
 
 * Check out this primer on [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
-Try incorporating 1 or more item of markdown styling in the next step.
+Try incorporating 1 or more element of markdown styling in the next step.
 
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 
@@ -71,7 +71,7 @@ Try incorporating 1 or more item of markdown styling in the next step.
 
 * You should see a comparison very much like the **git diff** you ran above. If you're satisfied, hit the *pull request* button! 
 
-I'll merge it for you since I own the repo. You're done with part 1!
+I'll merge it for you since I own the repo. You're done with part 0!
 
 
 
@@ -96,6 +96,10 @@ Don't worry though, you're not stuck with just the help pages today! You can als
 * CS50 [video walkthrough](https://youtu.be/697pD31GCZg) from Zamyla 
 
 * [Scratch getting started guide](https://cdn.scratch.mit.edu/scratchr2/static/__95f8025b5d5663c8eca07b96a66ef8d6__/pdfs/help/Getting-Started-Guide-Scratch2.pdf)
+
+If you want to find more audio assets to use in your project, you may want to try [FreeSound](http://www.freesound.org/)
+
+For image assets, you can run any Google image search and click **tools**, **usage rights** to find images labelled for reuse or noncommercial reuse.
 
 ##### Requirements
 
