@@ -44,7 +44,7 @@ Congratulations! You now have your own copy of our repo on your computer!
 
 You're now on your very own branch.
 
-* From a file explorer, open /Projects/motivation.txt in any text editor.
+* From a file explorer, open /Projects/0/motivation.txt in any text editor.
 
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 
