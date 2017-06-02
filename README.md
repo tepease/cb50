@@ -15,7 +15,7 @@
 
 This is the beginning of a tailored curriculum at CB to build the technical skills you need to apply for Programming and Development job positions.
 
-No prior experience is necessary, just *sticktuitiveness*.
+No prior experience is necessary, just *sticktoitiveness*.
 
 Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), 
 [Facebook group for discussion is here](https://www.facebook.com/groups/1548876931792281/), [Slack chat is here.](https://cb50.slack.com)
