@@ -38,9 +38,11 @@ If you meet the below expectations, in the next 18 weeks you will go from zero p
 
 Thursday 12-1
 
-* 40m : Homework review, play with each other’s projects, q & a
+* 20m : Homework review, play with each other’s projects, q & a
 
-* 20m : Setup for current week problem set
+* 15m : Setup for current week problem set
+
+* 25m : Get started on homework
 
 Sunday 3:30-5
 
