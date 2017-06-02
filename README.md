@@ -1,4 +1,4 @@
-![Picture](http://imgur.com/lWEMnwh)
+![code banner](http://i.imgur.com/lWEMnwh.jpg)
 
 ## *WELCOME TO CB-CS!*
 
