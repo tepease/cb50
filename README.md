@@ -13,7 +13,9 @@
 
 ### <a name="summary"></a>Summary
 
-This is the beginning of a tailored curriculum at CB to build the technical skills you need to apply for Programming and Development job positions.
+Welcome to the CB-CS Git repository. A repository is a place where project files and data about those files are stored. 
+
+This repository - or *repo* - is the home of our curriculum. By the time you've worked through it all you'll be ready to build professional web applications in the CB *stack*.
 
 No prior experience is necessary, just *sticktoitiveness*.
 
