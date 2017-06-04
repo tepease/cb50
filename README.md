@@ -35,6 +35,8 @@ If you meet the below expectations, in the next 18 weeks you will go from zero p
 
 * You will come to class with a laptop and headphones.
 
+* Learning to program is hard! Don't beat yourself up when you struggle. 
+
 
 ### <a name="structure"></a>Class Structure
 
