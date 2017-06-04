@@ -38,17 +38,17 @@ In your command prompt, navigate to your home folder, or directory, by typing ``
 
 * Back in your web browser, from the main page of this git repository, click the top right button **clone or download**, and copy the link exposed
 
-* In your command prompt again, type ```git clone *link*```, but replace *link* with the link you copied above. hit enter.
+* In your command prompt again, type ```git clone mylink```, but replace *mylink* with the link you copied above. hit enter.
 
 Congratulations! You now have your own copy of our repo on your computer! Now go into it
 
 * Type ```cd cb50``` and enter
 
-* In your command prompt, type ```git branch *name-motivation*``` where *name* is your first name, and enter.
+* In your command prompt, type ```git branch myname-motivation``` where *myname* is your first name, and enter.
 
 * Type ```git branch``` (enter) to see all the *branches* in this *repository*. You're on the *master* branch, but you want to be on your own branch...
 
-* Type ```git checkout *name*``` wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. Depending on your unique console, you may not be able to tab complete. If it doesn't work, no worries, but you'll need to type the whole branch name: ```*name*-motivation``` in the above command.
+* Type ```git checkout *name*``` wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. Depending on your unique console, you may not be able to tab complete. If it doesn't work, no worries, but you'll need to type the whole branch name: ```*myname*-motivation``` in the above command.
 
 You're now on your very own branch.
 
