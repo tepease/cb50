@@ -71,8 +71,7 @@ I'll let you know when you might need to reference it for our own assignments.
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
-HW - Clone this repository and add your motivation. 
-Details in the projects/0/ folder
+HW: [Project 0](https://github.com/tepease/cb50/blob/master/projects/0/project-0.md) Part 0: Git Motivated
 
 S 6/4 - Problem Set 0 Lab
 
