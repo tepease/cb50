@@ -54,18 +54,18 @@ You're now on your very own branch.
 
 * From a file explorer, open /Projects/0/motivation.txt in any text editor.
 
-* Check out this primer on [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
-Try incorporating 1 or more element of markdown styling in the next step.
-
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 
 * Back in the command line, type ```git status``` to see some information about what you've done. Some will make sense, some may seem a bit arcane for now.. feel free to ask or look up on your own anything you don't understand!
 
 * Type ```git diff``` to see the changes you've made
 
-* Type ```git commit -am 'Add *name* motivation'``` - the '-am' part is known as a flag. 
+* Type ```git commit -am 'Add *name* motivation'``` - the '-am' part is known as a flag.
 
-* Type ```man git-commit``` to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation. (For Windows users in git bash, you'll have to type ```git commit --help``` instead!)
+* Type ```man git-commit``` to see more information about what flags are available for this command. 
+No need to understand them all now. You can type **man** before any command to see the documentation. 
+(For Windows users in git bash, you'll have to type ```git commit --help``` instead!)
+What do -a and -m do?
 
 **Note** before you can do the next step you'll need to contact me in Slack and let me know you're ready to collaborate in GitHub. Then I can add you as a *collaborator*, and you'll be able to push to this repository!
 
