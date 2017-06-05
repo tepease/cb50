@@ -6,8 +6,13 @@ I'm hoping to get better at project management, grow the CB and Wilmington codin
 -Tristan
 ___
 
+<<<<<<< HEAD
 ___
 
 *I am hoping to gain further knowledge within the IT field.  And have fun collaborating with other co-workers!*
 __-Krystle__
 ___
+=======
+I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! #H1 IWANNABEFREE
+-Nathan
+>>>>>>> 6452f0145d7b2af7b9b76543c19cf2e0ef5966ee
