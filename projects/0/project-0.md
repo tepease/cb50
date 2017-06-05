@@ -1,6 +1,6 @@
 ### Project 0
 
-#### Part 0: Git
+#### Part 0: Git Motivated
 
 Git is an amazingly powerful tool for collaborative creation, known as a Version Control System. 
 Like Google Docs, Git allows you to make things together while keeping track of who contributed what - but also WHEN they did it. 
@@ -32,46 +32,50 @@ Windows: open applications, select *git bash for windows*
 
 In your command prompt, navigate to your home folder, or directory, by typing ```cd ~``` and hitting enter
 
-* Create a new directory called 'code' by typing **mkdir code** and enter
+* Create a new directory called 'code' by typing ```mkdir code``` and enter
 
 * Move into your new code directory by typing ```cd code``` and enter
 
 * Back in your web browser, from the main page of this git repository, click the top right button **clone or download**, and copy the link exposed
 
-* In your command prompt again, type **git clone *link***, but replace *link* with the link you copied above. hit enter.
+* In your command prompt again, type ```git clone mylink```, but replace *mylink* with the link you copied above. hit enter.
 
-Congratulations! You now have your own copy of our repo on your computer! 
+Congratulations! You now have your own copy of our repo on your computer! Now go into it
 
-* In your command prompt, type **git branch *name-motivation*** where *name* is your first name, and enter.
+* Type ```cd cb50``` and enter
 
-* Type **git branch** (enter) to see all the *branches* in this *repository*. You're on the *master* branch, but you want to be on your own branch...
+* In your command prompt, type ```git branch myname-motivation``` where *myname* is your first name, and enter.
 
-* Type **git checkout *name*** wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. 
+* Type ```git branch``` (enter) to see all the *branches* in this *repository*. You're on the *master* branch, but you want to be on your own branch...
+
+* Type ```git checkout myname``` wait don't hit enter yet! hit **tab** instead. did the branch name auto-complete? Niice. Now hit enter. Depending on your unique console, you may not be able to tab complete. If it doesn't work, no worries, but you'll need to type the whole branch name: ```*myname*-motivation``` in the above command.
 
 You're now on your very own branch.
 
 * From a file explorer, open /Projects/0/motivation.txt in any text editor.
 
-* Check out this primer on [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
-Try incorporating 1 or more element of markdown styling in the next step.
-
 * Add another row of underscores, and write a bit about what you're hoping to achieve in the next few months in this course, and save.
 
-* Back in the command line, type **git status** to see some information about what you've done. Some will make sense, some may seem a bit arcane for now.. feel free to ask or look up on your own anything you don't understand!
+* Back in the command line, type ```git status``` to see some information about what you've done. Some will make sense, some may seem a bit arcane for now.. feel free to ask or look up on your own anything you don't understand!
 
-* Type **git diff** to see the changes you've made
+* Type ```git diff``` to see the changes you've made
 
-* Type **git commit -am 'Add *name* motivation'** - the '-am' part is known as a flag. 
+* Type ```git commit -am 'Add myname motivation'``` - the '-am' part is known as a flag.
 
-* Type **man git commit** to see more information about what flags are available for this command. No need to understand them all now. You can type **man** before any command to see the documentation.
+* Type ```man git-commit``` to see more information about what flags are available for this command. 
+No need to understand them all now. You can type **man** before any command to see the documentation. 
+(For Windows users in git bash, you'll have to type ```git commit --help``` instead!)
+What do -a and -m do?
 
-* Type **git push --set-upstream origin *name*** and again you can just type the first couple letters of your name before hitting tab, and enter.
+**Note** before you can do the next step you'll need to contact me in Slack and let me know you're ready to collaborate in GitHub. Then I can add you as a *collaborator*, and you'll be able to push to this repository!
+
+* Type ```git push --set-upstream origin myname``` and again you can just type the first couple letters of your name before hitting tab, and enter.
  
  You are now a git command line guru. 
  
 * Back in the browser git repo, you should now see your branch! You may need to refresh.. Hit the *compare and pull request* button
 
-* You should see a comparison very much like the **git diff** you ran above. If you're satisfied, hit the *pull request* button! 
+* You should see a comparison very much like the ```git diff``` you ran above. If you're satisfied, hit the *pull request* button! 
 
 I'll merge it for you since I own the repo. You're done with part 0!
 
