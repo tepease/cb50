@@ -1,4 +1,4 @@
-![Picture](http://imgur.com/lWEMnwh)
+![code banner](http://i.imgur.com/lWEMnwh.jpg)
 
 ## *WELCOME TO CB-CS!*
 
@@ -13,17 +13,19 @@
 
 ### <a name="summary"></a>Summary
 
-This is the beginning of a tailored curriculum at CB to build the technical skills you need to apply for Programming and Development job positions.
+Welcome to the CB-CS Git repository. A repository is a place where project files and data about those files are stored. 
 
-No prior experience is necessary.
+This repository - or *repo* - is the home of our curriculum. By the time you've worked through it all you'll be ready to build professional web applications in the CB *stack*.
 
-Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info), 
-[Facebook group for discussion is here](https://www.facebook.com/groups/1548876931792281/), [Slack chat is here.](https://cb50.slack.com)
+No prior experience is necessary, just *sticktoitiveness*.
+
+Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) (except when its *here*), 
+[Facebook group is here](https://www.facebook.com/groups/1548876931792281/), [Slack chat is here.](https://cb50.slack.com)
  
 Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
 
 ### <a href="expectations"></a>Class Expectations
-If you meet the below expectations, in the next 18 months you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) or [Laurel](mailto:lljones@castlebranch.com) if you have a scheduling conflict.
+If you meet the below expectations, in the next 18 weeks you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) or [Laurel](mailto:lljones@castlebranch.com) if you have a scheduling conflict.
 
 * Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
 
@@ -33,14 +35,18 @@ If you meet the below expectations, in the next 18 months you will go from zero 
 
 * You will come to class with a laptop and headphones.
 
+* Learning to program is hard! Don't beat yourself up when you struggle. 
+
 
 ### <a name="structure"></a>Class Structure
 
 Thursday 12-1
 
-* 40m : Homework review, play with each other’s projects, q & a
+* 20m : Homework review, play with each other’s projects, q & a
 
-* 20m : Setup for current week problem set
+* 15m : Setup for current week problem set
+
+* 25m : Get started on homework
 
 Sunday 3:30-5
 
@@ -65,8 +71,7 @@ I'll let you know when you might need to reference it for our own assignments.
 
 R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
 
-HW - Clone this repository and add your motivation. 
-Details in the projects/0/ folder
+HW: [Project 0](https://github.com/tepease/cb50/blob/master/projects/0/project-0.md) Part 0: Git Motivated
 
 S 6/4 - Problem Set 0 Lab
 
@@ -78,33 +83,43 @@ S 6/4 - Problem Set 0 Lab
 
 R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
 
-HW - P Set 1 [Hello](http://docs.cs50.net/problems/hello/hello.html), [Water](http://docs.cs50.net/problems/water/water.html)
+HW - Git Stylish 
 
-S 6/11 - Problem Set 1 Lab: Mario [Less Comfy](http://docs.cs50.net/problems/mario/less/mario.html), [More Comfy](http://docs.cs50.net/problems/mario/more/mario.html), and either [Greedy](http://docs.cs50.net/problems/greedy/greedy.html) or [Credit](http://docs.cs50.net/problems/credit/credit.html)
+S 6/11 - Problem Set 1 Part 0 Lab: [Hello](http://docs.cs50.net/problems/hello/hello.html), [Water](http://docs.cs50.net/problems/water/water.html), and get started on Mario [Less Comfy](http://docs.cs50.net/problems/mario/less/mario.html), [More Comfy](http://docs.cs50.net/problems/mario/more/mario.html)
 
 #### <a name="2"></a>Week 2
 
-[Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
+No Lecture
 
-R 6/15 - Demo Completed Problem Set 1, P Set 2 cryptography q & a, binary game
+R 6/15 - Set 1 Part 1 Discussion, Mario help
 
-S 6/18 - Problem Set 2 Lab
+S 6/18 - Set 1 Part 2 [Greedy](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit](http://docs.cs50.net/problems/credit/credit.html)
 
 #### <a name="3"></a>Week 3
 
-[Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
+[Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
 
-R 6/22 - P Set 2 Demo, P Set 3 Search algorithms q & a
+R 6/22 - Demo Completed Problem Set 1, P Set 2 cryptography q & a, binary game
 
-S 6/25 - P Set 3 Find Lab
+S 6/25 - Problem Set 2 Lab
 
 #### <a name="4"></a>Week 4
 
-R 6/29 - P Set 3 Find Demo, 15 q & a
+[Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
-S 7/2 - P Set 3 Game of 15 Lab
+R 6/29 - P Set 2 Demo, P Set 3 Search algorithms q & a
+
+S 7/2 - P Set 3 Find Lab
 
 #### <a name="5"></a>Week 5
+
+No Lecture
+
+R 7/8 - P Set 3 Find Demo, 15 q & a
+
+S 7/11 - P Set 3 Game of 15 Lab
+
+#### <a name="6"></a>Week 6
 
 [Lecture 4](http://video.cs50.net/2016/fall/lectures/4)
 
@@ -114,97 +129,103 @@ Set 4, part 1, [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
 
 Set 4, part 2, Resize: [less comfy](http://docs.cs50.net/problems/resize/less/resize.html), [more comfy](http://docs.cs50.net/problems/resize/more/resize.html)
 
-R 7/8 - P Set 3 Game of 15 Demo, P Set 4 File i/o, Image manipulation and Stegonography discussion
+R 7/15 - P Set 3 Game of 15 Demo, P Set 4 File i/o, Image manipulation and Stegonography discussion
 
-S 7/11 - P Set 4 Whodunit & Resize Lab
+S 7/18 - P Set 4 Whodunit & Resize Lab
 
-#### Week 6
+#### <a name="7">Week 7</a>
 
-NO LECTURE
+No Tristan this week - will arrange sub
+
+No Lecture
 
 Set 4, part 3, [Recover](http://docs.cs50.net/problems/recover/recover.html)
 
-R 7/15 - P Set 4 Whodunit & Resize demo, P set 4 Recover discussion
+R 7/20 - P Set 4 Whodunit & Resize demo, P set 4 Recover discussion
 
-S 7/18 - P Set 4 Recover Lab
+S 7/23 - P Set 4 Recover Lab
 
-#### Week 7
+#### <a name="8">Week 8</a>
 
 [Lecture 5](http://video.cs50.net/2016/fall/lectures/5)
 
 [Problem Set 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
 
-R 7/20 - P Set 4 Recover Demo, Data Structures and Complexity discussion
+R 7/27 - P Set 4 Recover Demo, Data Structures and Complexity discussion
 
-S 7/23 - P Set 5 Speller Lab
+S 7/30 - P Set 5 Speller Lab
  
-#### Week 8
+#### <a name="9">Week 9</a>
 
 [Lecture 6](http://video.cs50.net/2016/fall/lectures/6)
 
 [Problem Set 6](http://cdn.cs50.net/2016/x/psets/6/pset6/pset6.html)
 
-R 7/27 - P Set 5 Speller Demo, P Set 6 Web Server discussion
+R 8/3 - P Set 5 Speller Demo, P Set 6 Web Server discussion
 
-S 7/30 - P Set 6 Web Server Lab
+HW - find and present on an [RFC](https://www.ietf.org/rfc.html) or a layer of the [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+
+S 8/6 - P Set 6 Web Server Lab
  
-#### Week 9
+#### <a name="10">Week 10</a>
 
 [Lecture 7](http://video.cs50.net/2016/fall/lectures/9)
 
 [Problem Set 7](http://cdn.cs50.net/2016/x/psets/7/pset7/pset7.html)
 
-R 8/3 - Stock Trading Web App, Databases & SQL
+R 8/10 - Present HW research
 
-S 8/6
+S 8/13 - Stock Trading Web App, Databases & SQL Lab
  
-#### Week 10
+#### <a name="11">Week 11</a>
 
-continued
+No Lecture
 
-R 8/10 
+R 8/17 - [PHP-FIG & PSR standards](http://www.php-fig.org/psr/)
 
-S 8/13
+HW - read up on assigned PSR topic
+
+S 8/20 - Discuss PSR, wrap up Stock Trading Apps - Tristan out, will try to find sub
  
-#### Week 11
+#### <a name="12">Week 12</a>
 
 [Lecture 8](http://video.cs50.net/2016/fall/lectures/10)
 
 [Problem Set 8](http://cdn.cs50.net/2016/x/psets/8/pset8/pset8.html)
 
-R 8/17 - Mashup Google Maps Integration
+R 8/24 - Demo Stock Trading Apps, Intro Mashup Google Maps Integration
 
-S 8/20 - Tristan out, substitute or no class
+S 8/27 - 
  
-#### Week 12
+#### <a name="13">Week 13</a>
 
-R 8/24 - JavaScript, DOM & AJAX
+R 8/31 - JavaScript, DOM & AJAX
 
-S 8/27
+S 9/3
  
-#### Week 13
+#### <a name="14">Week 14</a>
 
 [Problem Set 9]() - public data project
 
-R 8/31 - Machine Learning, Neural Nets, p/np, Data Visualization, Kaggle
-
-S 9/3
-  
-#### Week 14
-
-R 9/7
+R 9/7 - Machine Learning, Neural Nets, p/np, Data Visualization, Kaggle
 
 S 9/10
+  
+#### <a name="15">Week 15</a>
 
-#### Week 15
-
-Final Project 
-
-R 9/14 - Diagramming in BPMN, Use Cases, Acceptance Criteria, brainstorm, form teams
+R 9/14
 
 S 9/17
 
-#### Week 16
+#### <a name="16">Week 16</a>
+
+Final Project 
+
+R 9/21 - Diagramming in BPMN, Use Cases, Acceptance Criteria, brainstorm, form teams
+
+S 9/24
+
+#### <a name="17">Week 17</a>
 
 R 9/21 - Laravel Framework, Composer & dependencies, Local environments, Artisan 
 
