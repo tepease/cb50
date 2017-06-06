@@ -5,14 +5,8 @@
 We added our motivation last week in motivation.txt.
 
 If Tristan remembered to change it, you may notice that motivation.txt is now gone! It's been replaced by motivation.md.
-If you look at the file in the browser, however, you'll notice that nothing has changed. What's up with that?
-This is because the extension, or suffix, on any file does nothing to change its content, and GitHub always displays the raw content of a file.
-You can test this by finding an image file on your computer and changing it's suffix from .png or .jpg (or anything) to .txt.
-Double click it to open. What do you see? Now change it back to the image suffix it started as and double click it.
-
-As you can see, the data wasn't changed at all... but the way your computer decided to handle it did. 
-your computer saw the .txt and looked through a file where it stores all the suffixes it knows, and the applications it has installed that can open them.
-
+A .md file is the same as a .txt, with the additional feature that git *renders* certain character patterns as styling.
+Add some flair of your own to your motivation!
 
 ##### Requirements
 
@@ -26,7 +20,9 @@ your computer saw the .txt and looked through a file where it stores all the suf
 
 * If not, pull down the changes with ```git pull origin master```
 
+* 
+
 * Now open up motivation.md and incorporate 1 or more elements of markdown styling into your motivation
 
-Note that you won't be able to see your 
-
+Note that you won't be able to see your changes in a simple text editor - you'll have to push them up to github to see them for now.
+Refer to last week's instructions for completing the push to github and creating a pull request.
