@@ -44,3 +44,5 @@ ___
 
 I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! IWANNABEFREE
 -Nathan
+___
+I want to learn a new language to complement my DBA knowledge and so that I can better understand the possibilities, as well as limitations, of the CB environment when designing solutions 
