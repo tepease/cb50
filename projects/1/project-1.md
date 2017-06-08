@@ -6,7 +6,7 @@ We struggled a little last week. This week we're going to struggle a little more
 
 We added our motivation last week in motivation.txt.
 
-If Tristan remembered to change it, you may notice that motivation.txt is now gone! It's been replaced by motivation.md.
+If Tristan remembered to change it, you may notice that motivation.txt is now gone! (from the projects/0/ directory) t's been replaced by motivation.md.
 A .md file is the same as a .txt, with the additional feature that git *renders* certain character patterns as styling.
 Add some flair of your own to your motivation!
 
