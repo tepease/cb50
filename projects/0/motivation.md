@@ -44,8 +44,7 @@ ___
 
 I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! IWANNABEFREE
 -Nathan
-
-__
+___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
 -Cassie
