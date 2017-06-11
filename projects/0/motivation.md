@@ -42,9 +42,9 @@ I am hoping to gain further knowledge within the IT field.  And have fun collabo
 -Krystle
 ___
 
-I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! ### H3 IWANNABEFREE
+I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! ###IWANNABEFREE
 -Nathan
-![alt text](http://imgarcade.com/old-celtics-logo.html "The Almighty")
+![alt text](http://www.grayflannelsuit.net/blog/wp-content/uploads/2012/10/boston-celtics-logo_1978-1995.gif "The Almighty")
 ___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
