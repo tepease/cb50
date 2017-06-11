@@ -1,4 +1,4 @@
-What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
+﻿What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
 ___
 
 I want to learn more about computer science!
@@ -42,8 +42,9 @@ I am hoping to gain further knowledge within the IT field.  And have fun collabo
 -Krystle
 ___
 
-I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! IWANNABEFREE
+I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! ### H3 IWANNABEFREE
 -Nathan
+![alt text](http://imgarcade.com/old-celtics-logo.html "The Almighty")
 ___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
