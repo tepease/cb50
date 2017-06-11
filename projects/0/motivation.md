@@ -1,8 +1,8 @@
 What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
 ___
 
-I want to learn more about computer science!
--Nick
+**`"I want to learn more about computer science!"`**
+*-Nick*
 ___
 
 I'm hoping to get better at project management, grow the CB and Wilmington coding community, and have fun!
@@ -44,8 +44,7 @@ ___
 
 I hope to learn multiple languages and become comfortable enough with programming to understand how to use it for whatever my liking! IWANNABEFREE
 -Nathan
-
-__
+___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
 -Cassie
