@@ -18,6 +18,8 @@ Add some flair of your own to your motivation!
 
 * Switch to the master branch, where I merge the latest changes at the origin (```git checkout master```) 
 
+* Run ```git fetch``` so your local repository knows what's going on at the origin repository
+
 * Run ```git status```. Is your master branch up to date?
 
 * If not, pull down the changes with ```git pull origin master```
@@ -28,11 +30,11 @@ Add some flair of your own to your motivation!
 
 Note that you won't be able to see your changes in a simple text editor - you'll have to push them up to github to see them for now.
 
-* ```git diff``` to make sure no unexpected changes wre made to other files being tracked by git.
+* ```git diff``` to make sure no unexpected changes were made to other files being tracked by git.
 
-* Commit your changes to the new branch, with ```git commit -am 'Tell what you did in a few words'``` just like before
+* Commit your changes to the new branch, with ```git commit -am 'Your commit message here'``` just like before. Explain what changes you made in a few words instead of literally 'Your commit message here'.
 
-* Send your updates up to our origin repository with ```git push origin motivation-styling```
+* Send your updates up to our origin repository with ```git push origin mybranch-name```
 
 * And then refer to last week's instructions for creating a pull request for me to merge 
 
