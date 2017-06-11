@@ -13,7 +13,8 @@ Learning new stuff.
 -Rolena
 ___
 
-I would like to learn code so I can understand more about the world.
+###Elizabeth’s Motivation
+I would like to learn ~code~ so I can understand _more_ about the **world**.
 -Elizabeth
 ___
 
