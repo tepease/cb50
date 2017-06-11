@@ -1,8 +1,8 @@
 What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
 ___
 
-I want to learn more about computer science!
--Nick
+**`"I want to learn more about computer science!"`**
+*-Nick*
 ___
 
 I'm hoping to get better at project management, grow the CB and Wilmington coding community, and have fun!
