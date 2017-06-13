@@ -1,4 +1,4 @@
-What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
+﻿What are you hoping to get out of this course? Write your goals here to remind yourself what you're working for when the going gets tough!
 ___
 
 **`"I want to learn more about computer science!"`**
@@ -38,7 +38,9 @@ During this course, I would like to better understand the logic of programming, 
 -Laurel
 ___
 
-I am hoping to gain further knowledge within the IT field.  And have fun collaborating with other co-workers!
+#Krystle
+
+I am hoping to gain further knowledge within the IT field.  **And have fun collaborating with other co-workers!**
 -Krystle
 ___
 
