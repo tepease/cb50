@@ -9,8 +9,10 @@ I'm hoping to get better at project management, grow the CB and Wilmington codin
 -Tristan
 ___
 
+```sh
 Learning new stuff.
 -Rolena
+ ```
 ___
 
 I would like to learn code so I can understand more about the world.
