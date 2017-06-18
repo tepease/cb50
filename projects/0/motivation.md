@@ -79,6 +79,8 @@ ___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
 -Cassie
+___
 
-——————
-
+I'd like to understand the process of programming.
+-John
+___
