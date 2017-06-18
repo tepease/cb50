@@ -19,16 +19,18 @@ ___
 
 ### *Adding that S.T.Y.L.E*   
 
-More than ever, I want to stay ##*Motivated*.   
+More than ever, I want to stay 
+## *Motivated*.   
 Watching the Lectures, repeating the Shorts (over and over), taking a bajillion notes, and  
 finally implementing the respective concepts has been nothing short of frustrating.
 
 I say *frustrating*, when I actually mean *humbling.*
    
 I always appreciated the work it took engineering to develop and produce movies, games, apps, etc... but I never fully grasped just how much   
-went into seeing a project through to fruition. #####Please see my attempted linked video below.
+went into seeing a project through to fruition. 
+##### Please see my attempted linked video below.
 
-##*Example:*
+## *Example:*
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/uRnNP6nMSyA" frameborder="0" allowfullscreen></iframe>
 
