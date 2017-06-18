@@ -83,7 +83,7 @@ S 6/4 - Problem Set 0 Lab
 
 R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
 
-HW - [Project 0](https://github.com/tepease/cb50/blob/master/projects/1/project-1.md) Git Stylish 
+HW - [Project 1](https://github.com/tepease/cb50/blob/master/projects/1/project-1.md) Git Stylish 
 
 S 6/11 - Problem Set 1 Part 0 Lab: [Hello](http://docs.cs50.net/problems/hello/hello.html), [Water](http://docs.cs50.net/problems/water/water.html), and get started on Mario [Less Comfy](http://docs.cs50.net/problems/mario/less/mario.html), [More Comfy](http://docs.cs50.net/problems/mario/more/mario.html)
 
@@ -92,6 +92,8 @@ S 6/11 - Problem Set 1 Part 0 Lab: [Hello](http://docs.cs50.net/problems/hello/h
 No Lecture
 
 R 6/15 - Set 1 Part 1 Discussion, Mario help
+
+HW - [Project 2](https://github.com/tepease/cb50/blob/master/projects/2/project-2.md) More Git
 
 S 6/18 - Set 1 Part 2 [Greedy](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit](http://docs.cs50.net/problems/credit/credit.html)
 
