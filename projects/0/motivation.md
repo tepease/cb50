@@ -53,7 +53,13 @@ By the end of this course I plan on being an elite haxor.
 -Steven
 ___
 
-I am really excited to look back to day 1 and understand all this stuff that is currently mind blowing!  :)  I am looking forward to retraining my brain back to looking at and understanding code, it has been forever!  I want to keep growing and learning and eventually create my own App one day.  Oh and have fun and make new friends along the way!
+I am really excited to look back to day 1 and understand all this stuff that is currently *mind blowing*!  :)  
+
+
+I am looking forward to **retraining my brain** back to looking at and understanding code, it has been forever!  I want to keep growing and learning and eventually create my own App one day. 
+
+
+Oh and have fun and make new friends along the way!
 -Elisa
 ___
 
@@ -73,3 +79,6 @@ ___
 
 I’m SUPER excited to have been introduced to Cs50!  I hope to learn a whole new language and to have a new understanding of computers in general.  Can’t wait to be able to express myself in a more ‘technical’ sense!  Super Stoked!
 -Cassie
+
+——————
+
