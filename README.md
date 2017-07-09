@@ -125,31 +125,47 @@ S - [Askmii.c](), [Strint.c]()
 
 R - mod math, chaining boolean expressions, functions: round, floor
 
-S [Greedy.c](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit.c](http://docs.cs50.net/problems/credit/credit.html)
+S - [Greedy.c](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit.c](http://docs.cs50.net/problems/credit/credit.html)
 
 #### <a name="9"></a>Week 9
 
 HW - [CS50 Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
-# R - TODO 2 of [Caesar.c]() [Vigenere.c]() [Crack.c]()
+R - 
 
-R - GUI persistence in console
-
-S - [Fifteen.c - init & draw](http://docs.cs50.net/problems/fifteen/fifteen.html)
+S - Initials.c, [easier](http://docs.cs50.net/problems/initials/less/initials.html) or [harder](http://docs.cs50.net/problems/initials/more/initials.html)
 
 #### <a name="10"></a>Week 10
 
 R - 
 
-S - [Fifteen.c - won & move](http://docs.cs50.net/problems/fifteen/fifteen.html)
+S - [Caesar.c](https://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html#hail_caesar)
 
 #### <a name="11"></a>Week 11
+
+R - 
+
+S - [Vigenere.c](https://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html#parlez_vous_français)
+
+#### <a name="12"></a>Week 12
+
+R - GUI persistence in console
+
+S - [Fifteen.c - init & draw](http://docs.cs50.net/problems/fifteen/fifteen.html)
+
+#### <a name="13"></a>Week 13
+
+R - 
+
+S - [Fifteen.c - won & move](http://docs.cs50.net/problems/fifteen/fifteen.html)
+
+#### <a name="14"></a>Week 14
 
 R - Complexity and sorting algorithms
 
 S - Find.c [easier](http://docs.cs50.net/problems/find/less/find.html#specification) or [harder](http://docs.cs50.net/problems/find/more/find.html#specification)
 
-#### <a name="12"></a>Week 12
+#### <a name="15"></a>Week 15
 
 #### schedule in progress from here down, take with a grain of salt
 
