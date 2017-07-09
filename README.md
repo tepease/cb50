@@ -13,19 +13,21 @@
 
 ### <a name="summary"></a>Summary
 
+Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
+
 Welcome to the CB-CS Git repository. A repository is a place where project files and data about those files are stored. 
 
 This repository - or *repo* - is the home of our curriculum. By the time you've worked through it all you'll be ready to build professional web applications in the CB *stack*.
 
 No prior experience is necessary, just *sticktoitiveness*.
 
-Except where otherwise specified, [course content is here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) (except when its *here*), 
-[Facebook group is here](https://www.facebook.com/groups/1548876931792281/), [Slack chat is here.](https://cb50.slack.com)
- 
-Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
+This course is built around and on [Harvard's CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info). By the end of this class you will have completed that entire course. If you want, you can register for it on EdX (either for credit or not) to access their extra video content and forums. I'll make sure you have all the materials you need right here though, that's strictly optional.
+
+We'll have a lot of important class discussion and notices in [our Slack channel](https://cb50.slack.com). Please do sign up there ASAP and be sure you're getting notifications when needed. They have a nice app, which is also optional, but nice.
+
 
 ### <a href="expectations"></a>Class Expectations
-If you meet the below expectations, in the next 18 weeks you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) or [Laurel](mailto:lljones@castlebranch.com) if you have a scheduling conflict.
+If you meet the below expectations, in this course you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) if you have a scheduling conflict or any other questions. I'm doing this for the fun of seeing you succeed, and am always happy to help.
 
 * Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
 
@@ -35,18 +37,18 @@ If you meet the below expectations, in the next 18 weeks you will go from zero p
 
 * You will come to class with a laptop and headphones.
 
-* Learning to program is hard! Don't beat yourself up when you struggle. 
+* Learning to program is hard! Don't beat yourself up when you struggle. Be nice to you and you'll go far.
 
 
 ### <a name="structure"></a>Class Structure
 
 Thursday 12-1
 
+* 25m : Concept review and discussion, quizzes 
+
+* 15m : Setup for current week problem set if needed
+
 * 20m : Homework review, play with each other’s projects, q & a
-
-* 15m : Setup for current week problem set
-
-* 25m : Get started on homework
 
 Sunday 3:30-5
 
@@ -55,73 +57,101 @@ Sunday 3:30-5
 
 ### <a name="calendar"></a>Class Calendar
 
-W 5/24 - Introduction, course registration, expectations
+R 5/24 - Introduction, course registration, expectations
 
 S 5/28 – NO CLASS- Memorial Day Weekend
 
 #### <a name="0"></a>Week 0
 
-[Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
+HW - [CS50 Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
-In order to complete the CS50 edx course along the way, I'll provide links to their Problem Sets below to keep us oriented.
-Note that I'm in the process of building our own curriculum as well, which you can find in the projects folder. 
-I'll let you know when you might need to reference it for our own assignments.
-
-[Problem Set 0](http://docs.cs50.net/2017/x/psets/0/pset0.html)
-
-R 6/1  - Scratch setup, GitHub setup, intro to programming concepts
+R 6/1  - Scratch setup, GitHub setup, the command line
 
 HW: [Project 0](https://github.com/tepease/cb50/blob/master/projects/0/project-0.md) Part 0: Git Motivated
 
-S 6/4 - Problem Set 0 Lab
+S 6/4 - [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
 
 #### <a name="1"></a>Week 1
 
-[Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
+HW - [CS50 Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
 
-[Problem Set 1](http://docs.cs50.net/2017/x/psets/1/pset1.html)
+R 6/8 - functions & syntax: main, printf, get_int
 
-R 6/8  - Demo Completed Problem Set 0, CS50 IDE setup, programming in C q & a
+HW - [Git Stylish](https://github.com/tepease/cb50/blob/master/projects/1/project-1.md)  
 
-HW - [Project 1](https://github.com/tepease/cb50/blob/master/projects/1/project-1.md) Git Stylish 
-
-S 6/11 - Problem Set 1 Part 0 Lab: [Hello](http://docs.cs50.net/problems/hello/hello.html), [Water](http://docs.cs50.net/problems/water/water.html), and get started on Mario [Less Comfy](http://docs.cs50.net/problems/mario/less/mario.html), [More Comfy](http://docs.cs50.net/problems/mario/more/mario.html)
+S 6/11 - [Hello.c](http://docs.cs50.net/problems/hello/hello.html)
 
 #### <a name="2"></a>Week 2
 
-No Lecture
+R 6/15 - variables, data types, assignments and evaluation
 
-R 6/15 - Set 1 Part 1 Discussion, Mario help
+HW - [More Git](https://github.com/tepease/cb50/blob/master/projects/2/project-2.md) 
 
-HW - [Project 2](https://github.com/tepease/cb50/blob/master/projects/2/project-2.md) More Git
-
-S 6/18 - Set 1 Part 2 [Greedy](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit](http://docs.cs50.net/problems/credit/credit.html)
+S 6/18 - [Water.c](http://docs.cs50.net/problems/water/water.html)
 
 #### <a name="3"></a>Week 3
 
-[Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
+HW - [CS50 Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
 
-R 6/22 - Demo Completed Problem Set 1, P Set 2 cryptography q & a, binary game
+R 6/22 - loops and conditions, breaking problems into little parts: change/compile/run
 
-S 6/25 - Problem Set 2 Lab
+S 6/25 - [Echo.c](), [Scream.c](), [Grid.c]()
 
 #### <a name="4"></a>Week 4
 
-[Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
+R 6/29 - visualizing and formatting loop output
 
-R 6/29 - P Set 2 Demo, P Set 3 Search algorithms q & a
-
-S 7/2 - P Set 3 Find Lab
+S 7/2 - [Numgrid.c](), [Only2s.c](), [Steps.c]()
 
 #### <a name="5"></a>Week 5
 
-No Lecture
+R - loop anatomy review, interpreting error messages
 
-R 7/8 - P Set 3 Find Demo, 15 q & a
-
-S 7/11 - P Set 3 Game of 15 Lab
+S - Choose either Mario.c [easier](http://docs.cs50.net/problems/mario/less/mario.html), or [harder](http://docs.cs50.net/problems/mario/more/mario.html)
 
 #### <a name="6"></a>Week 6
+
+R - arrays, iteration and indices
+
+S - [S_p_l_i_t.c](), [esreveR.c]()
+
+#### <a name="7"></a>Week 7
+
+R - data types review, return types
+
+S - [Askmii.c](), [Strint.c]()
+
+#### <a name="8"></a>Week 8
+
+R - mod math, chaining boolean expressions, functions: round, floor
+
+S [Greedy.c](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit.c](http://docs.cs50.net/problems/credit/credit.html)
+
+#### <a name="9"></a>Week 9
+
+HW - [CS50 Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
+
+# R - TODO 2 of [Caesar.c]() [Vigenere.c]() [Crack.c]()
+
+R - GUI persistence in console
+
+S - [Fifteen.c - init & draw](http://docs.cs50.net/problems/fifteen/fifteen.html)
+
+#### <a name="10"></a>Week 10
+
+R - 
+
+S - [Fifteen.c - won & move](http://docs.cs50.net/problems/fifteen/fifteen.html)
+
+#### <a name="11"></a>Week 11
+
+R - Complexity and sorting algorithms
+
+S - Find.c [easier](http://docs.cs50.net/problems/find/less/find.html#specification) or [harder](http://docs.cs50.net/problems/find/more/find.html#specification)
+
+#### <a name="12"></a>Week 12
+
+#### schedule in progress from here down, take with a grain of salt
 
 [Lecture 4](http://video.cs50.net/2016/fall/lectures/4)
 
@@ -135,7 +165,7 @@ R 7/15 - P Set 3 Game of 15 Demo, P Set 4 File i/o, Image manipulation and Stego
 
 S 7/18 - P Set 4 Whodunit & Resize Lab
 
-#### <a name="7">Week 7</a>
+
 
 No Tristan this week - will arrange sub
 
