@@ -1,13 +1,13 @@
 ![code banner](http://i.imgur.com/lWEMnwh.jpg)
 
-## *WELCOME TO CB-CS!*
+## *WELCOME TO CODE CAMP!*
 
 
 ### Contents
 * [Summary](#summary)
 * [Expectations](#expectations)
 * [Structure](#structure)
-* [Calendar & Content](#calendar)
+* [Content](#content)
 	* Week... [0](#0), [1](#1), [2](#2), [3](#3), [4](#4), [5](#5), ... [18](#18)
 
 
@@ -15,29 +15,41 @@
 
 Class meets **Thursdays** 12-1 in the CastleBranch Brewery and **Sundays** 1-4 at New Hanover Northeast Library in Watkins Room
 
-Welcome to the CB-CS Git repository. A repository is a place where project files and data about those files are stored. 
+Welcome to the our Git repository. A repository is a place where project files and data about those files are stored. 
 
-This repository - or *repo* - is the home of our curriculum. By the time you've worked through it all you'll be ready to build professional web applications in the CB *stack*.
+This repository - or *repo* - is the home of our curriculum. By the time you've worked through it all you will...
+
+* be familiar with the Linux *bash* command line
+
+* have experience writing collaborative code projects with Git
+
+* be comfortable reading and writing C, PHP, HTML, CSS, Javascript and SQL
+
+* have coded your own command line and full stack web applications
+
+* understand common architectures and programming design patterns
+
+* be ready to design and create your own new applications from scratch
 
 No prior experience is necessary, just *sticktoitiveness*.
 
-This course is built around and on [Harvard's CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info). By the end of this class you will have completed that entire course. If you want, you can register for it on EdX (either for credit or not) to access their extra video content and forums. I'll make sure you have all the materials you need right here though, that's strictly optional.
+This course is built around and on [Harvard's CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info). By the end of this class you will have completed that entire course, and much more. If you want, you can register for it on EdX (either for credit or not) to access their extra video content and forums. I'll make sure you have all the materials you need right here though, that's strictly optional.
 
 We'll have a lot of important class discussion and notices in [our Slack channel](https://cb50.slack.com). Please do sign up there ASAP and be sure you're getting notifications when needed. They have a nice app, which is also optional, but nice.
 
 
 ### <a href="expectations"></a>Class Expectations
-If you meet the below expectations, in this course you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind if you don’t stick to the assignment schedule - but you *can* keep on top of it and you *can* succeed. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) if you have a scheduling conflict or any other questions. I'm doing this for the fun of seeing you succeed, and am always happy to help.
+If you meet the below expectations, in this course you will go from zero programming experience to designing and coding your own desktop and web applications from the ground up. It is easy to defeat yourself by getting behind or working infrequently. Learning to program *is* learning a new language. Like any other language, frequent practice is the key to success. You *can* keep on top of it and you *can* succeed! You will need to set aside time *at least* twice a week to keep your knowledge fresh though. Coming to class regularly will help you keep on top of this a great deal - if you want to succeed you should come to as many classes as you can - at least once a week. Talk to [Tristan](mailto:tepease@castlebranch.com) if you have a scheduling conflict or any other questions. I'm doing this for the fun of seeing you succeed, and am always happy to help.
 
-* Assignments are due by midnight on Wednesday, to be reviewed on Thursday in class & on FB.
+* Work through the list of assignment below, in order. 
 
-* Lectures will be watched outside of class time, prior to the date listed.
+* Where a video lecture is listed, watch it outside of class. 
 
-* You may need up to 5 out of class hours per week for completing problem sets and lectures.
+* Set aside 5 out of class hours per week for completing problem sets and lectures.
 
-* You will come to class with a laptop and headphones.
+* Come to class with a laptop and headphones.
 
-* Learning to program is hard! Don't beat yourself up when you struggle. Be nice to you and you'll go far.
+* Learning to program is hard! You will feel dumb. You will struggle. The single key to success is leaving your ego at the door. Be patient. Take a step back or ask for help when you need it. Don't beat yourself up when you struggle. Be nice to you and you *will* succeed.
 
 
 ### <a name="structure"></a>Class Structure
