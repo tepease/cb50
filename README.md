@@ -103,11 +103,11 @@ S 6/18 - [Water.c](http://docs.cs50.net/problems/water/water.html)
 
 #### <a name="3"></a>Week 3
 
-HW - [CS50 Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
+HW - [Echo.c](), [Scream.c]()
 
 R 6/22 - loops and conditions, breaking problems into little parts: change/compile/run
 
-S 6/25 - [Echo.c](), [Scream.c](), [Grid.c]()
+S 6/25 - [Grid.c]()
 
 #### <a name="4"></a>Week 4
 
@@ -141,25 +141,27 @@ S - [Greedy.c](http://docs.cs50.net/problems/greedy/greedy.html) and/or [Credit.
 
 #### <a name="9"></a>Week 9
 
-HW - [CS50 Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
+HW - [CS50 Lecture 2](https://video.cs50.net/2016/fall/lectures/2) 
 
-R - 
+R - writing your own functions (implement strlen)
 
 S - Initials.c, [easier](http://docs.cs50.net/problems/initials/less/initials.html) or [harder](http://docs.cs50.net/problems/initials/more/initials.html)
 
 #### <a name="10"></a>Week 10
 
-R - 
+R - command line arguments, debugging
 
 S - [Caesar.c](https://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html#hail_caesar)
 
 #### <a name="11"></a>Week 11
 
-R - 
+R - solving tiny problems - vigenere set up
 
 S - [Vigenere.c](https://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html#parlez_vous_français)
 
 #### <a name="12"></a>Week 12
+
+HW - [CS50 Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
 R - GUI persistence in console
 
