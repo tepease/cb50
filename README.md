@@ -79,7 +79,7 @@ HW - [CS50 Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
 R 6/1  - Scratch setup, GitHub setup, the command line
 
-HW - [Puzzle Pieces](https://github.com/tepease/cb50/blob/master/projects/0/puzzlepieces.md), [Cowsay](https://github.com/tepease/cb50/blob/master/projects/cowsay.md)
+HW - [Puzzle Pieces](https://github.com/tepease/cb50/blob/master/0/projects.md#puzzlepieces), [Cowsay](https://github.com/tepease/cb50/blob/master/0/projects.md#cowsay)
 
 S 6/4 - [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
 
@@ -89,7 +89,7 @@ HW - [CS50 Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
 
 R 6/8 - functions & syntax: main, printf, get_int
 
-HW - [Git Motivated](https://github.com/tepease/cb50/blob/master/projects/git/motivated.md)  
+HW - [Git Motivated](https://github.com/tepease/cb50/blob/master/git/projects.md#motivated)  
 
 S 6/11 - [Hello.c](http://docs.cs50.net/problems/hello/hello.html)
 
@@ -97,21 +97,21 @@ S 6/11 - [Hello.c](http://docs.cs50.net/problems/hello/hello.html)
 
 R 6/15 - variables, data types, assignments and evaluation
 
-HW - [Git Stylish](https://github.com/tepease/cb50/blob/master/projects/git/stylish.md) 
+HW - [Git Stylish](https://github.com/tepease/cb50/blob/master/git/projects.md#stylish) 
 
 S 6/18 - [Water.c](http://docs.cs50.net/problems/water/water.html)
 
 #### <a name="3"></a>Week 3
 
-HW - [Echo.c](https://github.com/tepease/cb50/blob/master/projects/1/echo.md), [Scream.c](https://github.com/tepease/cb50/blob/master/projects/1/scream.md)
+HW - [Echo.c](https://github.com/tepease/cb50/blob/master/1/echo.md), [Scream.c](https://github.com/tepease/cb50/blob/master/1/scream.md)
 
 R 6/22 - loops and conditions, breaking problems into little parts: change/compile/run
 
-S 6/25 - [Grid.c](https://github.com/tepease/cb50/blob/master/projects/1/grid.md), [Numgrid.c](https://github.com/tepease/cb50/blob/master/projects/1/numgrid.md)
+S 6/25 - [Grid.c](https://github.com/tepease/cb50/blob/master/1/grid.md), [Numgrid.c](https://github.com/tepease/cb50/blob/master/1/numgrid.md)
 
 #### <a name="4"></a>Week 4
 
-HW - [Only2s.c](https://github.com/tepease/cb50/blob/master/projects/1/only2s.md), [Steps.c](https://github.com/tepease/cb50/blob/master/projects/1/steps.md)
+HW - [Only2s.c](https://github.com/tepease/cb50/blob/master/1/only2s.md), [Steps.c](https://github.com/tepease/cb50/blob/master/1/steps.md)
 
 R 6/29 - visualizing and formatting loop output
 
@@ -121,21 +121,21 @@ S 7/2 - Choose either Mario.c [easier](http://docs.cs50.net/problems/mario/less/
 
 R - loop anatomy review, interpreting error messages, arrays, iteration and indices
 
-S - [S_p_l_i_t.c](https://github.com/tepease/cb50/blob/master/projects/1/s_p_l_i_t.md), [esreveR.c](https://github.com/tepease/cb50/blob/master/projects/1/esrever.md)
+S - [S_p_l_i_t.c](https://github.com/tepease/cb50/blob/master/1/s_p_l_i_t.md), [esreveR.c](https://github.com/tepease/cb50/blob/master/1/esrever.md)
 
 #### <a name="6"></a>Week 6
 
 R - 
 
-S - [Pin tests](https://github.com/tepease/cb50/blob/master/projects/1/pin.md)
+S - [Pin tests](https://github.com/tepease/cb50/blob/master/1/pin.md)
 
 #### <a name="7"></a>Week 7
 
-HW - [Git Artistic](https://github.com/tepease/cb50/blob/master/projects/git/artistic.md)
+HW - [Git Artistic](https://github.com/tepease/cb50/blob/master/git/projects.md#artistic)
 
 R - data types review, return types
 
-S - [Askmii.c](https://github.com/tepease/cb50/blob/master/projects/1/askmii.md), [Strint.c](https://github.com/tepease/cb50/blob/master/projects/1/strint.md)
+S - [Askmii.c](https://github.com/tepease/cb50/blob/master/1/askmii.md), [Strint.c](https://github.com/tepease/cb50/blob/master/1/strint.md)
 
 #### <a name="8"></a>Week 8
 

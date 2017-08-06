@@ -1,9 +1,25 @@
- Here are a series of ATM PIN checking algorithms for you to implement. 
- Numbered 1 through 5, they start simple and get progressively more advanced. 
- I'll post only my console output, and you sort out how to replicate it. 
- Before starting each, identify exactly how it differs from the one before,
- and reuse any code you can in each iteration.
- Remember to compile and run after each change you make so you don't get into any rabbit holes  :]
+#### <a name='choosy.c'></a> choosy.c
+Prompt for a number, and take it with getString(). If any character is not a digit, prompt again.
+
+#### <a name='esrever'></a> esreveR.c
+Take string input and print it out ... backwards
+
+#### <a name='takes2'></a> takes2.c
+Implement numgrid.c from above, but ONLY print the number 2
+
+#### <a name='tenner'></a> tenner.c
+Take number input and print out the digit in the tens place. If the number is less than 10, print 0.
+
+#### <a name='strint'></a> strint.c
+Take string input and print out the integer value of each character, in order
+
+#### <a name='pin'></a> PIN sequence
+Here are a series of ATM PIN checking algorithms for you to implement. 
+Numbered 1 through 5, they start simple and get progressively more advanced. 
+I'll post only my console output, and you sort out how to replicate it. 
+Before starting each, identify exactly how it differs from the one before,
+and reuse any code you can in each iteration.
+Remember to compile and run after each change you make so you don't get into any rabbit holes!
  
  ```
  ~/workspace/ $ make pin1

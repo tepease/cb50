@@ -1,6 +1,4 @@
-### Project 0
-
-#### Part 0: Git Motivated
+### <a name='motivated'></a> git motivated
 
 Git is an amazingly powerful tool for collaborative creation, known as a Version Control System. 
 Like Google Docs, Git allows you to make things together while keeping track of who contributed what - but also WHEN they did it. 
@@ -81,49 +79,79 @@ I'll merge it for you since I own the repo. You're done with part 0!
 
 
 
+### <a name='stylish'></a> git stylish
 
-#### Part 1: Scratch
+We struggled a little last week. This week we're going to struggle a little more. 
+Remember not to be hard on yourself if you're struggling! 
+Look back at your command history. Did you do everything in order?
+Take a break if you're getting frustrated. 
+If you come back, leave, and come back a few times and can't make progress, ask a friend or mentor for help. 
+Struggling, getting help, and understanding what you were missing is how we learn :] 
 
-##### Setup
+We added our motivation previously in motivation.txt.
 
-* Sign up for an account on MIT's [Scratch](https://scratch.mit.edu/) site.
-
-You can use some of these resources to get started, or just dive in if you're a already somewhat comfortable with the concepts.
-
-##### Resources
-
-First, the best resource you'll ever have when programming - [help documentation](https://scratch.mit.edu/help/). 
-This can take many different forms, as you saw from the 'man' pages in git. 
-Help docs are almost always the most *reliable*, *up-to-date* resource you'll have access to.
-In many cases understanding help docs can be a skill all its own... but its a skill worth honing!
-
-Don't worry though, you're not stuck with just the help pages today! You can also use:
-
-* CS50 [video walkthrough](https://youtu.be/697pD31GCZg) from Zamyla 
-
-* [Scratch getting started guide](https://cdn.scratch.mit.edu/scratchr2/static/__95f8025b5d5663c8eca07b96a66ef8d6__/pdfs/help/Getting-Started-Guide-Scratch2.pdf)
-
-If you want to find more audio assets to use in your project, you may want to try [FreeSound](http://www.freesound.org/)
-
-For image assets, you can run any Google image search and click **tools**, **usage rights** to find images labelled for reuse or noncommercial reuse.
+You may notice that what you wrote there now apprears also in a new file - motivation.md! (from the git/ directory) 
+A .md file is the same as a .txt, with the additional feature that a browser *renders* certain character patterns as styling.
+Add some flair of your own to your motivation!
 
 ##### Requirements
 
-In order to complete this project you'll have 
+* Check out this primer on [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Your mission is, quite simply, to have fun with Scratch and implement a project of your choice (be it an animation, a game, interactive art, or anything else), subject only to the following requirements.
+* In your console/command line/bash, navigate to your cb50 repository just like you did last week (starts with ```cd ~```, remember?)
 
-* Your project must have at least two sprites, at least one of which must resemble something other than a cat.
+* Switch to the master branch, where I merge the latest changes at the origin (```git checkout master```) 
 
-* Your project must have at least three scripts total (i.e., not necessarily three per sprite).
+* Run ```git fetch``` so your local repository knows what's going on at the origin repository
 
-* Your project must use at least one condition, one loop, and one variable.
+* Run ```git status```. Is your master branch up to date?
 
-* Your project must use at least one sound.
+* If not, pull down the changes with ```git pull origin master```
 
-Once finished with your project, click See project page in Scratch’s top-right corner. 
-Ensure your project has a title (in Scratch’s top-left corner), some instructions (in Scratch’s top-right corner), 
-and some notes and/or credits (in Scratch’s bottom-right corner). 
-Then click Share in Scratch’s top-right corner so that others can see your project. 
-Finally, take note of the URL in your browser’s address bar. That’s your project’s URL on MIT’s website, 
-and you’ll need to know it later.
+* Create a new branch for your styling changes. Remember how? Reference the instructions from Project 0 if you're stuck! 
+
+* Now open up projects/1/motivation.md and incorporate 1 or more elements of markdown styling into your motivation
+
+Note that you won't be able to see your changes in a simple text editor - you'll have to push them up to github to see them for now.
+
+* ```git diff``` to make sure no unexpected changes were made to other files being tracked by git.
+
+* Commit your changes to the new branch, with ```git commit -am 'Your commit message here'``` just like before. Explain what changes you made in a few words instead of literally 'Your commit message here'.
+
+* Send your updates up to our origin repository with ```git push origin mybranch-name```
+
+* And then refer to last week's instructions for creating a pull request for me to merge 
+
+Awesome work!
+
+
+
+### <a name='artistic'></a> git artistic
+
+Lets go to the git gym and flex our git skills! ᕙ(⇀‸↼‶)ᕗ 
+
+#### Requirements
+
+* Add some text based emoji to emoji.md, and send me a pull request when you're done
+
+In order to do this you'll need to rely on the git workflow we've been starting to establish:
+
+0.  ```cd``` to your repo
+
+1.  ```git checkout master```
+
+2.  ```git pull origin master```
+
+3.  ```git branch my-branch-name```
+
+4.  ```git checkout my-branch-name```
+
+5.  edit and save your files
+
+6.  ```git commit -am 'your commit message'```
+
+7.  ```git push origin my-branch-name```
+
+8.  go to the origin repo in your browser, locate your branch, and create a pull request
+
+If you get any errors that don't make sense, don't suffer - send them my way in Slack!

@@ -1,1 +1,0 @@
-Take string input and print out the integer value of each character, in order
