@@ -1,9 +1,12 @@
-### <a name='motivated'></a> git motivated
+## Git
 
 Git is an amazingly powerful tool for collaborative creation, known as a Version Control System. 
 Like Google Docs, Git allows you to make things together while keeping track of who contributed what - but also WHEN they did it. 
 Baked in to that *when* is the power to revert changes to any point in time for the project as a whole or only parts. 
 You can do a lot with Git, but a little also goes a long way. 
+
+### <a name='motivated'></a> git motivated
+
 Let's start by sharing what we want to get out of this course. 
 
 ##### Resources 
