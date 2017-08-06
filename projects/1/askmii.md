@@ -1,0 +1,1 @@
+Prompt for a number, and take it with getString(). If any character is not a digit, prompt again.

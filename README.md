@@ -103,29 +103,31 @@ S 6/18 - [Water.c](http://docs.cs50.net/problems/water/water.html)
 
 #### <a name="3"></a>Week 3
 
-HW - [Echo.c](https://github.com/tepease/cb50/blob/master/projects/1/echo.c)
+HW - [Echo.c](https://github.com/tepease/cb50/blob/master/projects/1/echo.md), [Scream.c](https://github.com/tepease/cb50/blob/master/projects/1/scream.md)
 
 R 6/22 - loops and conditions, breaking problems into little parts: change/compile/run
 
-S 6/25 - [Scream.c](), [Grid.c]()
+S 6/25 - [Grid.c](https://github.com/tepease/cb50/blob/master/projects/1/grid.md), [Numgrid.c](https://github.com/tepease/cb50/blob/master/projects/1/numgrid.md)
 
 #### <a name="4"></a>Week 4
 
+HW - [Only2s.c](https://github.com/tepease/cb50/blob/master/projects/1/only2s.md), [Steps.c](https://github.com/tepease/cb50/blob/master/projects/1/steps.md)
+
 R 6/29 - visualizing and formatting loop output
 
-S 7/2 - [Numgrid.c](), [Only2s.c](), [Steps.c]()
+S 7/2 - Choose either Mario.c [easier](http://docs.cs50.net/problems/mario/less/mario.html), or [harder](http://docs.cs50.net/problems/mario/more/mario.html)
 
 #### <a name="5"></a>Week 5
 
-R - loop anatomy review, interpreting error messages
+R - loop anatomy review, interpreting error messages, arrays, iteration and indices
 
-S - Choose either Mario.c [easier](http://docs.cs50.net/problems/mario/less/mario.html), or [harder](http://docs.cs50.net/problems/mario/more/mario.html)
+S - [S_p_l_i_t.c](https://github.com/tepease/cb50/blob/master/projects/1/s_p_l_i_t.md), [esreveR.c](https://github.com/tepease/cb50/blob/master/projects/1/esrever.md)
 
 #### <a name="6"></a>Week 6
 
-R - arrays, iteration and indices
+R - 
 
-S - [S_p_l_i_t.c](), [esreveR.c]()
+S - [Pin tests](https://github.com/tepease/cb50/blob/master/projects/1/pin.md)
 
 #### <a name="7"></a>Week 7
 
@@ -133,7 +135,7 @@ HW - [Git Artistic](https://github.com/tepease/cb50/blob/master/projects/git/art
 
 R - data types review, return types
 
-S - [Askmii.c](), [Strint.c]()
+S - [Askmii.c](https://github.com/tepease/cb50/blob/master/projects/1/askmii.md), [Strint.c](https://github.com/tepease/cb50/blob/master/projects/1/strint.md)
 
 #### <a name="8"></a>Week 8
 
@@ -165,17 +167,27 @@ S - [Vigenere.c](https://cdn.cs50.net/2015/x/psets/2/pset2/pset2.html#parlez_vou
 
 HW - [CS50 Lecture 3](http://video.cs50.net/2016/fall/lectures/3)
 
-R - GUI persistence in console
+R - GUI persistence in console - make a dungeon-less crawler
 
 S - [Fifteen.c - init & draw](http://docs.cs50.net/problems/fifteen/fifteen.html)
 
 #### <a name="13"></a>Week 13
+
+HW - finish init & draw
 
 R - 
 
 S - [Fifteen.c - won & move](http://docs.cs50.net/problems/fifteen/fifteen.html)
 
 #### <a name="14"></a>Week 14
+
+HW - finish won & move
+
+R - fifteen discussion, bug hunt and victory lap
+
+S - no class
+
+#### <a name="15"></a>Week 15
 
 R - Complexity and sorting algorithms
 
