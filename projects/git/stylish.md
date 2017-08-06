@@ -26,7 +26,7 @@ Add some flair of your own to your motivation!
 
 * Create a new branch for your styling changes. Remember how? Reference the instructions from Project 0 if you're stuck! 
 
-* Now open up motivation.md and incorporate 1 or more elements of markdown styling into your motivation
+* Now open up projects/1/motivation.md and incorporate 1 or more elements of markdown styling into your motivation
 
 Note that you won't be able to see your changes in a simple text editor - you'll have to push them up to github to see them for now.
 

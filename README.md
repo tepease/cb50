@@ -79,7 +79,7 @@ HW - [CS50 Lecture 0](https://video.cs50.net/2016/fall/lectures/0)
 
 R 6/1  - Scratch setup, GitHub setup, the command line
 
-HW: [Project 0](https://github.com/tepease/cb50/blob/master/projects/0/project-0.md) Part 0: Git Motivated
+HW - [Puzzle Pieces](https://github.com/tepease/cb50/blob/master/projects/0/puzzlepieces.md), [Cowsay](https://github.com/tepease/cb50/blob/master/projects/cowsay.md)
 
 S 6/4 - [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
 
@@ -89,7 +89,7 @@ HW - [CS50 Lecture 1](https://video.cs50.net/2016/fall/lectures/1)
 
 R 6/8 - functions & syntax: main, printf, get_int
 
-HW - [Git Stylish](https://github.com/tepease/cb50/blob/master/projects/1/project-1.md)  
+HW - [Git Motivated](https://github.com/tepease/cb50/blob/master/projects/git/motivated.md)  
 
 S 6/11 - [Hello.c](http://docs.cs50.net/problems/hello/hello.html)
 
@@ -97,7 +97,7 @@ S 6/11 - [Hello.c](http://docs.cs50.net/problems/hello/hello.html)
 
 R 6/15 - variables, data types, assignments and evaluation
 
-HW - [More Git](https://github.com/tepease/cb50/blob/master/projects/2/project-2.md) 
+HW - [Git Stylish](https://github.com/tepease/cb50/blob/master/projects/git/stylish.md) 
 
 S 6/18 - [Water.c](http://docs.cs50.net/problems/water/water.html)
 
@@ -107,7 +107,7 @@ HW - [CS50 Lecture 2](https://video.cs50.net/2016/fall/lectures/2)
 
 R 6/22 - loops and conditions, breaking problems into little parts: change/compile/run
 
-S 6/25 - [Echo.c](), [Scream.c](), [Grid.c]()
+S 6/25 - [Echo.c](https://github.com/tepease/cb50/blob/master/projects/1/echo.c), [Scream.c](), [Grid.c]()
 
 #### <a name="4"></a>Week 4
 
@@ -128,6 +128,8 @@ R - arrays, iteration and indices
 S - [S_p_l_i_t.c](), [esreveR.c]()
 
 #### <a name="7"></a>Week 7
+
+HW - [Git Artistic](https://github.com/tepease/cb50/blob/master/projects/git/artistic.md)
 
 R - data types review, return types
 
