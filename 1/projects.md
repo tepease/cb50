@@ -3,7 +3,7 @@
 In this unit we'll be getting familiar with C syntax. 
 You'll learn what your Scratch 'control' puzzle pieces are in the C language, and become comfortable with using them. 
 
-######Reminder: in all code snippets, user input is denoted with *asterisks\*. Anything in *asterisks\* should be entered by you at the command line while your program is running.
+###### Reminder: in all code snippets, user input is denoted with *asterisks\*. Anything in *asterisks\* should be entered by you at the command line while your program is running.
 
 
 ### Projects
